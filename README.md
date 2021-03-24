@@ -3,7 +3,6 @@
 
 ## Spis treści
 * [O programie](#o-programie)
-* [Użycie](#użycie)
 * [Powód powstania](#powód-powstania)
 * [To-do list](#to-do-list)
 * [Ciekawostka](#ciekawostka)
@@ -14,14 +13,8 @@
 Program służy do analizowania wszystkich dotychczasowych losowań małego lotka. 
 
 
-## Użycie
-Plik wykonywalny jest w minilotto/out/artifacts/minilotto_jar
-Wystarczy pobrać plik minilotto_jar, otworzyć konsolę i wpisać: java -jar C:\ścieżka\do\pliku\minilotto.jar
-lub po prostu wpisać "java -jar" i przeciągnąć plik minilotto.jar do konsoli.
-
 ## Powód powstania
-Przypomnienie sobie operacji na kolekcjach i pobierania danych z internetua. Wszyscy wiemy że prawdopodobieństwo wylosowania dowolnej liczby w każdym losowaniu jest takie samo, ale z drugiej strony
-lubię mieć choćby złudne poczucie że dzięki analizie danych mam większą szansę na wygraną.
+Przypomnienie sobie operacji na kolekcjach i pobierania danych z internetua. Wszyscy wiemy że prawdopodobieństwo wylosowania dowolnej liczby w każdym losowaniu jest takie samo, ale z drugiej strony lubię mieć choćby złudne poczucie, że dzięki analizie danych mam większą szansę na wygraną.
 
 
 ## To-do list:
